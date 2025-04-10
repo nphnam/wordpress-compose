@@ -49,6 +49,8 @@ General PHP settings:
 - SOAP extension enabled
 - 3000 maximum input variables
 
+
+
 ## Usage
 
 ### Starting the Environment
